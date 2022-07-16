@@ -95,4 +95,3 @@
 Для удаления ветки используется команда:
     
     git branch -d branches
-    dfdfs
